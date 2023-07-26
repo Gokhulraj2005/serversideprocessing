@@ -126,6 +126,7 @@ urlpatterns = [
 ## OUTPUT:
 ![triangleoutput](https://github.com/Gokhulraj2005/serversideprocessing/assets/138849253/3559ec8a-d169-46ec-af12-fd3883c964f9)
 
+![triangle2](https://github.com/Gokhulraj2005/serversideprocessing/assets/138849253/a5415856-dc91-4c41-8da6-5f85d350e7a9)
 
 
 ## Result:
